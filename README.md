@@ -1,4 +1,4 @@
-# Sample Album Modulefor Zend Framework 2
+# Sample Album Module for Zend Framework 2
 
 ## Introduction
 
